@@ -1,0 +1,8 @@
+#!/bin/bash 
+set -euxo pipefail
+
+# jnewland.sh
+
+echo 👋
+echo jesse@jnewland.com
+true
